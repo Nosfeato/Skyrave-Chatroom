@@ -1,0 +1,10 @@
+#profile {
+  margin: 3em 0;
+  width: 12em;
+  height: 2em;
+  background-size: cover;
+  
+  & :hover {
+    background-color: grey;
+  }
+}
